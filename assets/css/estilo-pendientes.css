@@ -2,6 +2,7 @@ body{
     background-image: url("https://wallpapers.com/images/featured-full/anime-scenery-ahd1eqpvwq8aoofp.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    padding-bottom: 100%;
 }
 
 h1{

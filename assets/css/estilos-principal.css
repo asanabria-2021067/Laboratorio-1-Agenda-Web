@@ -2,8 +2,8 @@ body{
     background-image: url("https://wallpapers.com/images/hd/anime-city-sunrise-desktop-t49z6c0epuj7cdac.webp");
     background-size: cover;
     background-repeat: no-repeat;
+    padding-bottom: 100%;
 }
-
 
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
